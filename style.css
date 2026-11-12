@@ -55,7 +55,7 @@ body::before {
     radial-gradient(36rem 28rem at 95% 10%, color-mix(in srgb, var(--blush) 35%, transparent), transparent 70%),
     radial-gradient(40rem 30rem at 50% 110%, color-mix(in srgb, var(--honey) 22%, transparent), transparent 70%);
 }
-img { max-width: 100%; display: block; }
+img { max-width: 100%; height: auto; display: block; }
 a { color: var(--accent); }
 .wrap { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
 .narrow { max-width: 720px; }
