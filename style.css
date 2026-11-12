@@ -133,3 +133,5 @@ details p { margin: 8px 0 0; }
   .private ul { columns: 1; }
   .links { gap: 12px; font-size: 14px; }
 }
+
+.hero > div, .grid > *, .ask > * { min-width: 0; }
